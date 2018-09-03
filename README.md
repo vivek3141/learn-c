@@ -1,2 +1,12 @@
-# learn-c
-A comprehensive C tutorial.
+# Learn C
+This repository contains a tutorial for all the major C concepts like variables,
+loops, pointers, etc.
+<br>
+You can find the index below.<br>
+* [Hello World](https://github.com/vivek3141/learn-c/blob/master/hello_world.c)
+* [Variables](https://github.com/vivek3141/learn-c/blob/master/variables.c)
+* [Arrays](https://github.com/vivek3141/learn-c/blob/master/arrays.c)
+* [If Statements](https://github.com/vivek3141/learn-c/blob/master/if_statements.c)
+* [Strings](https://github.com/vivek3141/learn-c/blob/master/strings.c)
+
+

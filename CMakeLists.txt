@@ -1,0 +1,7 @@
+cmake_minimum_required (VERSION 2.6)
+project (Learn-C)
+add_executable(Hello_World hello_world.c)
+add_executable(Variables variables.c)
+add_executable(Arrays arrays.c)
+add_executable(Strings strings.c)
+add_executable(If_Statements if_statements.c)
