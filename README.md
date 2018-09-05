@@ -8,5 +8,6 @@ You can find the index below.<br>
 * [Arrays](https://github.com/vivek3141/learn-c/blob/master/arrays.c)
 * [If Statements](https://github.com/vivek3141/learn-c/blob/master/if_statements.c)
 * [Strings](https://github.com/vivek3141/learn-c/blob/master/strings.c)
+* [Loops](https://github.com/vivek3141/learn-c/blob/master/loops.c)
 
 

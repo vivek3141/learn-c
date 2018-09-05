@@ -23,7 +23,15 @@ int main(){
     else if(a == 0){ // Not checked if the above is true
         printf("a is equal to 0\n");
     }
+    // Supported comparisons: ==, >, <, >=, <=, !=
 
+    // Combining Statements,
+    if(a != 0 || a == c){ // Or
+        printf("a is not equal to zero or a is equal to c");
+    }
+    if(a == 0 && a != c){ // And
+        printf("a is equal to 0 and not equal to c");
+    }
     return 0;
 }
 
