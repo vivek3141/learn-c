@@ -2,7 +2,7 @@
 This repository contains a tutorial for all the major C concepts like variables,
 loops, pointers, etc.
 <br>
-You can find the index below.<br>
+## Index
 * [Hello World](https://github.com/vivek3141/learn-c/blob/master/hello_world.c)
 * [Variables](https://github.com/vivek3141/learn-c/blob/master/variables.c)
 * [Arrays](https://github.com/vivek3141/learn-c/blob/master/arrays.c)
@@ -12,4 +12,3 @@ You can find the index below.<br>
 * [Functions](https://github.com/vivek3141/learn-c/blob/master/functions.c)
 * [Pointers](https://github.com/vivek3141/learn-c/blob/master/pointers.c)
 * [Pointers Extra](https://github.com/vivek3141/learn-c/blob/master/pointers_extra.c)
-
