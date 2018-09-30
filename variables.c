@@ -6,7 +6,7 @@ int main(){
     printf("Size of int: %ld\n", sizeof(int)); // sizeof() outputs storage size for the object in bytes. Outputs 4
     char h = 'h'; // 1 byte '' is for character
     short n = 0; // 2 bytes
-    long l = 0; // 4 bytes
+    long l = 0; // 8 bytes
 
     float f = 0.4f; // 4 bytes
     double d = 0.1f; // 8 bytes
