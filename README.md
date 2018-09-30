@@ -11,5 +11,5 @@ You can find the index below.<br>
 * [Loops](https://github.com/vivek3141/learn-c/blob/master/loops.c)
 * [Functions](https://github.com/vivek3141/learn-c/blob/master/functions.c)
 * [Pointers](https://github.com/vivek3141/learn-c/blob/master/pointers.c)
-
+* [Pointers Extra](https://github.com/vivek3141/learn-c/blob/master/pointers_extra.c)
 
