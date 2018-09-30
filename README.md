@@ -10,5 +10,6 @@ You can find the index below.<br>
 * [Strings](https://github.com/vivek3141/learn-c/blob/master/strings.c)
 * [Loops](https://github.com/vivek3141/learn-c/blob/master/loops.c)
 * [Functions](https://github.com/vivek3141/learn-c/blob/master/functions.c)
+* [Pointers](https://github.com/vivek3141/learn-c/blob/master/pointers.c)
 
 
